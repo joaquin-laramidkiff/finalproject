@@ -24,19 +24,12 @@ We will time-calibrate the following tree topologies produced in the previously-
 
 ## Methods
 
-The tools I used were... See analysis files at (links to analysis files).
 
 ## Results
 
-The tree in Figure 1...
 
 ## Discussion
 
-These results indicate...
-
-The biggest difficulty in implementing these analyses was...
-
-If I did these analyses again, I would...
 
 ## References
 
@@ -86,7 +79,7 @@ If I did these analyses again, I would...
 
 [23] Nesbitt SJ, Ksepka DT, and Clarke JA. 2011. Podargiform affinities of the enigmatic Fluvioviridavis platyrhamphus and the early diversification of Strisores (“Caprimulgiformes”+ Apodiformes). PLoS One 6(11), e26350. DOI: https://doi.org/10.1371/journal.pone.0026350
 
-[24]Ksepka DT, et al. 2013. Fossil evidence of wing shape in a stem relative of swifts and hummingbirds (Aves, Pan-Apodiformes). Proceedings of the Royal Society B: Biological Sciences 280(1761), 20130580. DOI: https://doi.org/10.1098/rspb.2013.0580
+[24] Ksepka DT, et al. 2013. Fossil evidence of wing shape in a stem relative of swifts and hummingbirds (Aves, Pan-Apodiformes). Proceedings of the Royal Society B: Biological Sciences 280(1761), 20130580. DOI: https://doi.org/10.1098/rspb.2013.0580
 
 [25] Chen A, et al. 2019. Total-evidence framework reveals complex morphological evolution in nightbirds (Strisores). Diversity 11(9),143.
 
